@@ -16,14 +16,22 @@ Below is a short list of potential starting points for exploring archiving and p
 - *[Personal Digital Archiving](http://guides.lib.purdue.edu/PDA)* from [Purdue University Libraries](https://www.lib.purdue.edu/): Resource guide around digital preservation that includes basic introductions, recommendations by digital format, storage, and a brief history of computing. 
 - *[Activists' Guide to Archiving Video](https://archiving.witness.org/archive-guide/)* from [WITNESS](https://witness.org): Free and available in English, Spanish, and Arabic. This guide was created to support human rights activists looking for information about organizing, storing, preserving, and sharing footage. It's divided into 8 manageable sections and easy-to-follow. 
 
-### 'LOCAL' ORGANIZATIONS
-Check out these regional organizations events, newsletters, or resources.
+### LOCAL AND PROFESSIONAL ORGANIZATIONS
 
-- *[VoCA - Voices in Contemporary Art](http://www.voca.network/mission/)*: Non-profit that offers resources, programs, and engagement "to address the production, presentation, and preservation of contemporary art".
-- *[XFR Collective](xfrcollective.wordpress.com)* : NYC-based non-profit which supports preservation of at-risk and obsolete audiovisual media by providing low-cost migration services and education to independent media makers and artists. 
+🌇 - based in or serves NYC region. 
+
+- *[Association of Moving Image Archivists](http://amianet.org/)*: Professional organization focused on audiovisual archiving, preservation, and access. There is a [public listserv](http://amianet.org/community/list-serv) you can join or read thru the archive of questions and announcements in the media preservation community.
+- 🌇 *[Brooklyn Digital Collections](http://www.bklynlibrary.org/brooklyncollection/digital-collections)* at the Brooklyn Public Library: Collection of historical borough materials.
+- 🌇 *[Brooklyn Historical Society](http://brooklynhistory.org/)*: A local "urban history center dedicated to preserving and encouraging the study of Brooklyn's extraordinary 400-year history". 
+- 🌇 *[Interference Archive](http://interferencearchive.org/)*: Located in Gowanus, the organization explores the "relationship between cultural production and social movements" and offers open stacks, workshops, events, and resources. 
+- 🌇 *[Lesbian Herstory Archives](http://www.lesbianherstoryarchives.org/)*: Located in Park Slope, the Herstory Archives is the "world's largest collection of materials by and about lesbians and their communities".
+- 🌇 *[Metropolitan New York Library Council (METRO)](http://metro.org/)*: A non-proift that "develops and maintains essential library services throughout New York City and Westchester County" and provides free/low-cost training and resources to professionals and communities.
+- *[Society of American Archivists](http://www2.archivists.org/)*: Professional organization which is "North America's oldest and largest national professional association dedicated to the needs and interests of archives and archivists", which includes  resources like [Donating Your Personal or Family Records to a Archive or Repository](http://www2.archivists.org/publications/brochures/donating-familyrecs).
+- 🌇 *[VoCA - Voices in Contemporary Art](http://www.voca.network/mission/)*: Non-profit that offers resources, programs, and engagement "to address the production, presentation, and preservation of contemporary art".
+- 🌇 *[XFR Collective](xfrcollective.wordpress.com)* : NYC-based non-profit which supports preservation of at-risk and obsolete audiovisual media by providing low-cost migration services and education to independent media makers and artists. 
 
 ## LICENSE
 
-Material in this repository is shared under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. Click on the button below for more details.
+Material in this repository, including presentation slides, is shared under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. Click on the button below for more details.
 
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
