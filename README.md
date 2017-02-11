@@ -28,7 +28,7 @@ Below is a short list of potential starting points for exploring archiving and p
 - 🌇 *[Metropolitan New York Library Council (METRO)](http://metro.org/)*: A non-proift that "develops and maintains essential library services throughout New York City and Westchester County" and provides free/low-cost training and resources to professionals and communities.
 - *[Society of American Archivists](http://www2.archivists.org/)*: Professional organization which is "North America's oldest and largest national professional association dedicated to the needs and interests of archives and archivists", which includes  resources like [Donating Your Personal or Family Records to a Archive or Repository](http://www2.archivists.org/publications/brochures/donating-familyrecs).
 - 🌇 *[VoCA - Voices in Contemporary Art](http://www.voca.network/mission/)*: Non-profit that offers resources, programs, and engagement "to address the production, presentation, and preservation of contemporary art".
-- 🌇 *[XFR Collective](xfrcollective.wordpress.com)* : NYC-based non-profit which supports preservation of at-risk and obsolete audiovisual media by providing low-cost migration services and education to independent media makers and artists. 
+- 🌇 *[XFR Collective](https://xfrcollective.wordpress.com/)* : NYC-based non-profit which supports preservation of at-risk and obsolete audiovisual media by providing low-cost migration services and education to independent media makers and artists. 
 
 ## LICENSE
 
