@@ -3,7 +3,7 @@ Resources and supplemental materials related to the PresChat discussion at [Grou
 
 ## PRESENTATION SLIDES
 
-The slides from the presentation and discussion are available here.
+The slides from the presentation and discussion are available [here](https://docs.google.com/presentation/d/1KyrPWSnq84aTOMC6KthjA2fO5STrxTjE7IEmfsqzoO0/edit?usp=sharing).
 
 ## RESOURCES AND ORGANIZATIONS
 
